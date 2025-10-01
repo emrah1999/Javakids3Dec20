@@ -1,4 +1,4 @@
-package Ders45JavaException;
+package Ders35JavaException;
 
 import Ders32OOP4cuhisse.Car;
 

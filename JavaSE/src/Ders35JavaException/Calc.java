@@ -1,4 +1,4 @@
-package Ders45JavaException;
+package Ders35JavaException;
 
 public class Calc {
     public int divide(int a, int b) {

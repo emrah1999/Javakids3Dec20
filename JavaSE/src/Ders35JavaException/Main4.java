@@ -1,4 +1,4 @@
-package Ders45JavaException;
+package Ders35JavaException;
 
 public class Main4 {
     public static void main(String[] args) {
