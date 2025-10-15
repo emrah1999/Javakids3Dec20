@@ -32,6 +32,11 @@ public class Car implements Cloneable{
     }
 
     @Override
+    public String toString(){
+        return "Model: " + model + " Price: " + price;
+    }
+
+    @Override
     protected void finalize() throws Throwable {
         System.out.println("Silindi ");
     }
