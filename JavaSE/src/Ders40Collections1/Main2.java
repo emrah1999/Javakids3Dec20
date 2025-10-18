@@ -5,6 +5,8 @@ import Ders32OOP4cuhisse.Car;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Set;
+import java.util.TreeSet;
 
 public class Main2 {
     public static void main(String[] args) {
@@ -31,6 +33,8 @@ public class Main2 {
         Integer eded=20;
         number.remove(eded);
         System.out.println(number);
+
+        Set<Integer> numbers2=new TreeSet<>(number);
 
         ArrayList<Car> cars=new ArrayList<>();
 
